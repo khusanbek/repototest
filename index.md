@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Khusanbek Gafurov's first Github page
 
 You can use the [editor on GitHub](https://github.com/khusanbek/repototest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
